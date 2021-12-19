@@ -126,6 +126,28 @@ h1 {
 	cursor: default;
 }
 
+h2 {
+	margin: 5px 0 0 0;
+	font-family: source-sans-pro, sans-serif;
+	font-size: 11px;
+	letter-spacing: 0.75px;
+	font-weight: 600;
+	color: rgba(0, 0, 0, 0.9);
+	padding: 0;
+	cursor: default;
+}
+
+h3 {
+	margin: 5px 0 0 0;
+	font-family: source-sans-pro, sans-serif;
+	font-size: 10px;
+	letter-spacing: 0.75px;
+	font-weight: 200;
+	color: rgba(0, 0, 0, 1);
+	padding: 0;
+	cursor: default;
+}
+
 span {
 	font-family: source-sans-pro, sans-serif;
 	font-size: 12px;
