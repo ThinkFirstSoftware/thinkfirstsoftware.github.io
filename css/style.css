@@ -29,6 +29,19 @@ a:visited {
 	left: 50%;
 	margin-top: -200px;
 	margin-left: -190px;
+	font-family: source-sans-pro, sans-serif;
+}
+
+#about {
+	width: 380px;
+	height: 400px;
+	text-align: center;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -190px;
+	font-family: source-sans-pro, sans-serif;
 }
 
 .main-logo {
@@ -40,9 +53,17 @@ a:visited {
 	margin-bottom: 10px;
 }
 
+.main-logo-small {
+	width: 128px;
+	height: 128px;
+	position: relative;
+	left: 50%;
+	margin-left: -64px;
+	margin-bottom: 10px;
+}
+
 h1 {
 	margin: 5px 0 0 0;
-	font-family: source-sans-pro, sans-serif;
 	font-size: 18px;
 	letter-spacing: 1px;
 	font-weight: 800;
@@ -52,7 +73,6 @@ h1 {
 
 h2 {
 	margin: 5px 0 0 0;
-	font-family: source-sans-pro, sans-serif;
 	font-size: 14px;
 	letter-spacing: 0.6px;
 	font-weight: 500;
@@ -62,7 +82,6 @@ h2 {
 
 h3 {
 	margin: 5px 0 0 0;
-	font-family: source-sans-pro, sans-serif;
 	font-size: 12px;
 	letter-spacing: 0.5px;
 	font-weight: 300;
@@ -72,7 +91,6 @@ h3 {
 
 h4 {
 	margin: 15px 0 0 0;
-	font-family: source-sans-pro, sans-serif;
 	font-size: 12px;
 	letter-spacing: 0.75px;
 	font-weight: 200;
